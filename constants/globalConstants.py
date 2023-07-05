@@ -1,2 +1,2 @@
-#Ortak ve sık sık kullanılan kodlar(magic stringi azaltmak için)
+Common and frequently used codes
 URL = "https://www.saucedemo.com/"
